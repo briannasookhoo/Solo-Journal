@@ -1,0 +1,13 @@
+body {
+  background-image: url("./leaves.jpg");
+  background-size: cover;
+  background-color: #165733;
+ }
+
+ h2 {
+   color: whitesmoke;
+ }
+
+ form {
+  color: whitesmoke;
+}
